@@ -3,7 +3,7 @@
 For slides and example code, see [lesson 12](../../../fhnw-iot/blob/master/12/README.md)
 
 > *Note: Do not work on this repository right away.*<br/>
-> *[Check existing forks to find the specific repository for your class.](../../network/members)*
+> *[Create your personal copy by clicking this GitHub Classroom link](https://classroom.github.com/a/Xi9DARYS).*
 
 ### a) Raspberry Pi GPIO, 15'
 * Use the [Grove hat](https://github.com/tamberg/fhnw-iot/wiki/Grove-Adapters#grove-base-hat-for-raspberry-pi) to connect Grove sensors to the Pi.
